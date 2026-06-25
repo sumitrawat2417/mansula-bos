@@ -28,7 +28,7 @@ Open `index.html` in any modern web browser to access the application. You can "
 
 Ownership of this application belongs to **ManSula DivLabs, ManSula Technologies & ManSula**.
 
-- **Website:** [https://mansulanexus.app](https://mansulanexus.app) (Legacy domain)
+- **Website:** [https://mansulabos.netlify.app](https://mansulabos.netlify.app) (Legacy domain)
 - **Contact:** mansula.rwt@gmail.com
 - **Phone:** +91 9818013446, +91 8851947954
 
