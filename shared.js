@@ -63,7 +63,7 @@
 <nav class="navbar" id="navbar">
   <div class="nav-container">
     <a href="index.html" class="nav-logo">
-      <img src="msbos-square-logo.png" alt="ManSula BOS Logo" width="32" height="32" style="border-radius:6px; object-fit:cover;" />
+      <img src="mansula-bos-logo.png" alt="ManSula BOS Logo" width="32" height="32" style="border-radius:6px; object-fit:cover;" />
       <span class="logo-text">ManSula <span class="logo-accent">BOS</span></span>
     </a>
     <ul class="nav-links">
@@ -99,7 +99,7 @@
     <div class="footer-top">
       <div class="footer-brand">
         <a href="index.html" class="nav-logo footer-logo-link">
-          <img src="msbos-square-logo.png" alt="ManSula BOS Logo" width="30" height="30" style="border-radius:6px; object-fit:cover;" />
+          <img src="mansula-bos-logo.png" alt="ManSula BOS Logo" width="30" height="30" style="border-radius:6px; object-fit:cover;" />
           <span class="logo-text" style="color:rgba(255,255,255,.82)">ManSula <span style="color:#818CF8">BOS</span></span><br><span style="font-size:0.75rem;color:rgba(255,255,255,.45);margin-left:38px;display:block;margin-top:-4px">(Formerly ManSula Nexus)</span>
         </a>
         <p class="footer-tagline">The all-in-one <strong>Business Operating System</strong> for cafes, retail shops &amp; SMEs.<br/>Your Business. Your Device. Your Data.</p>
